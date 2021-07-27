@@ -6,7 +6,7 @@ Space Ranger is a 2D space shooter game made for the Gamedev course on Universid
 
 | Menu                   | Gameplay                   | Pause                   | Game Over                   |
 | ---------------------- | -------------------------- | ----------------------- | --------------------------- |
-| ![](./images/menu.png) | ![](./images/gameplay.png) | ![](./images/pause.png) | ![](./images/game_over.png) |
+| ![](images/menu.png) | ![](images/gameplay.png) | ![](images/pause.png) | ![](images/game_over.png) |
 
 ## Resources and Credits
 
