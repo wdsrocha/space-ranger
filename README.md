@@ -2,7 +2,14 @@
 
 Space Ranger is a 2D space shooter game made for the Gamedev course on Universidade do Estado do Amazonas.
 
-Resources and Credits:
+## Screenshots
+
+| Menu                   | Gameplay                   | Pause                   | Game Over                   |
+| ---------------------- | -------------------------- | ----------------------- | --------------------------- |
+| ![](./images/menu.png) | ![](./images/gameplay.png) | ![](./images/pause.png) | ![](./images/game_over.png) |
+
+## Resources and Credits
+
 - [SFX](https://opengameart.org/content/8-bit-platformer-sfx)
 - [Game music](https://opengameart.org/content/fast-level-loop-8-bit-chiptune)
 - [Menu music](https://opengameart.org/content/prepare-for-war)
